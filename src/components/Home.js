@@ -9,6 +9,7 @@ function Home() {
         <h1>Droolz</h1>
         <h3>pass me that sip</h3>
       </div>
+      <>TESSSST</>
     </>
   );
 }
