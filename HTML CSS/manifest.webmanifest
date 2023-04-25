@@ -1,0 +1,25 @@
+{
+    "name": "Afrocodez",
+    "short_name": "Afrocodez",
+    "icons": [
+        {
+            "src": "images/iphone.png",
+            "sizes": "600x600",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iphone.png",
+            "sizes": "600x600",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iphone.png",
+            "sizes": "600x600",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#8BC53F",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
